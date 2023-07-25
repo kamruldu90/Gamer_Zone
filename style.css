@@ -1,0 +1,29 @@
+.nav-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name-color{
+    color: #FF42A5;
+    
+}
+.company-name{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;
+    font-size: 45px;
+    
+}
+.logo-container{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.right-part-container{
+    display: flex;
+}
+
+.right-part-item{
+    margin-right: 25px;
+}
