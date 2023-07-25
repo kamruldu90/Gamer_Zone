@@ -18,6 +18,7 @@
     display: flex;
     align-items: center;
     gap: 10px;
+    padding: 15px;
 }
 
 .right-part-container{
@@ -26,4 +27,25 @@
 
 .right-part-item{
     margin-right: 25px;
+}
+
+.header1-container{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(255, 66, 165, .05);
+    padding-left: 150px;
+    padding-right: 100px;
+    align-items: center;
+}
+
+.header2-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.header2-items{
+    text-align: right;
 }
