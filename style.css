@@ -49,3 +49,16 @@
 .header2-items{
     text-align: right;
 }
+
+.main-1-container{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.main-1-items-2{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+    
+}
