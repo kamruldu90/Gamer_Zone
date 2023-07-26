@@ -89,3 +89,29 @@
     justify-content: center;
     align-items: center;
 }
+
+footer{
+    text-align: center;
+    background-color: #0B0223;
+    color: white;
+    padding: 150px;
+}
+
+.footer-item2{
+    display: flex;
+    list-style: none;
+    
+}
+
+.footer-sec-2{
+    align-items: center;
+    justify-content: center;
+}
+
+footer li{
+    margin-right: 50px;
+}
+
+.social-media{
+    display: flex;
+}
