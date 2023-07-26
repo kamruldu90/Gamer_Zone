@@ -70,6 +70,7 @@
     display: flex;
     margin-left: 100px;
     margin-right: 100px;
+    margin-bottom: 30px;
     gap: 100px;
     justify-content: center;
     align-items: center;
@@ -77,4 +78,14 @@
 
 .main-2-text{
     text-align: right;
+}
+
+.main-3-container{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 30px;
+    gap: 100px;
+    justify-content: center;
+    align-items: center;
 }
